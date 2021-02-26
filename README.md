@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
- - 🌱 I’m currently learning Flutter
+ - 🌱 I’m currently working with Flutter
  - 💬 Ask me about anything relevant
  - 📫 How to reach me: devanshjsr@gmail.com
  
