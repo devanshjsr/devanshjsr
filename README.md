@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
- - 🌱 I’m currently working on Mobile App Development
+ - 🌱 I’m currently working on Software Development
  - 💬 Ask me anything relevant
  - 📫 How to reach me: devanshjsr@gmail.com
  
